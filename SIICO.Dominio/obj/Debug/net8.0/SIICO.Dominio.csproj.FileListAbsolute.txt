@@ -1,0 +1,11 @@
+C:\Projetos\SIICO\SIICO.Dominio\bin\Debug\net8.0\SIICO.Dominio.deps.json
+C:\Projetos\SIICO\SIICO.Dominio\bin\Debug\net8.0\SIICO.Dominio.dll
+C:\Projetos\SIICO\SIICO.Dominio\bin\Debug\net8.0\SIICO.Dominio.pdb
+C:\Projetos\SIICO\SIICO.Dominio\obj\Debug\net8.0\SIICO.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\SIICO\SIICO.Dominio\obj\Debug\net8.0\SIICO.Dominio.AssemblyInfoInputs.cache
+C:\Projetos\SIICO\SIICO.Dominio\obj\Debug\net8.0\SIICO.Dominio.AssemblyInfo.cs
+C:\Projetos\SIICO\SIICO.Dominio\obj\Debug\net8.0\SIICO.Dominio.csproj.CoreCompileInputs.cache
+C:\Projetos\SIICO\SIICO.Dominio\obj\Debug\net8.0\SIICO.Dominio.dll
+C:\Projetos\SIICO\SIICO.Dominio\obj\Debug\net8.0\refint\SIICO.Dominio.dll
+C:\Projetos\SIICO\SIICO.Dominio\obj\Debug\net8.0\SIICO.Dominio.pdb
+C:\Projetos\SIICO\SIICO.Dominio\obj\Debug\net8.0\ref\SIICO.Dominio.dll

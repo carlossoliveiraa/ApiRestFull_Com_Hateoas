@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projetos\\SIICO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{670D089D-F4FB-48BE-941C-B6E7086C7570}|SIICO.Aplicacao\\SIICO.Aplicacao.csproj|c:\\projetos\\siico\\siico.aplicacao\\services\\correspondenteconvenioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{670D089D-F4FB-48BE-941C-B6E7086C7570}|SIICO.Aplicacao\\SIICO.Aplicacao.csproj|solutionrelative:siico.aplicacao\\services\\correspondenteconvenioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A0FB885-37B4-4E40-BFEB-AA26076B2073}|SIICO.Integracao.API\\SIICO.Integracao.API.csproj|c:\\projetos\\siico\\siico.integracao.api\\controllers\\correspondenteconveniocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A0FB885-37B4-4E40-BFEB-AA26076B2073}|SIICO.Integracao.API\\SIICO.Integracao.API.csproj|solutionrelative:siico.integracao.api\\controllers\\correspondenteconveniocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CorrespondenteConvenioController.cs",
+              "DocumentMoniker": "C:\\Projetos\\SIICO\\SIICO.Integracao.API\\Controllers\\CorrespondenteConvenioController.cs",
+              "RelativeDocumentMoniker": "SIICO.Integracao.API\\Controllers\\CorrespondenteConvenioController.cs",
+              "ToolTip": "C:\\Projetos\\SIICO\\SIICO.Integracao.API\\Controllers\\CorrespondenteConvenioController.cs",
+              "RelativeToolTip": "SIICO.Integracao.API\\Controllers\\CorrespondenteConvenioController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCUAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T13:01:12.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CorrespondenteConvenioService.cs",
+              "DocumentMoniker": "C:\\Projetos\\SIICO\\SIICO.Aplicacao\\Services\\CorrespondenteConvenioService.cs",
+              "RelativeDocumentMoniker": "SIICO.Aplicacao\\Services\\CorrespondenteConvenioService.cs",
+              "ToolTip": "C:\\Projetos\\SIICO\\SIICO.Aplicacao\\Services\\CorrespondenteConvenioService.cs",
+              "RelativeToolTip": "SIICO.Aplicacao\\Services\\CorrespondenteConvenioService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAawB0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T23:19:16.574Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 98,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SIICO.Infraestrutura/1.0.0": {
+        "dependencies": {
+          "SIICO.Dominio": "1.0.0"
+        },
+        "runtime": {
+          "SIICO.Infraestrutura.dll": {}
+        }
+      },
+      "SIICO.Dominio/1.0.0": {
+        "runtime": {
+          "SIICO.Dominio.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SIICO.Infraestrutura/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SIICO.Dominio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

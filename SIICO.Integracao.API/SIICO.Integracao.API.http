@@ -1,0 +1,6 @@
+@SIICO.Integracao.API_HostAddress = http://localhost:5217
+
+GET {{SIICO.Integracao.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

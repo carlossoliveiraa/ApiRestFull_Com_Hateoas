@@ -1,0 +1,15 @@
+C:\Projetos\SIICO\SIICO.Infraestrutura\bin\Debug\net8.0\SIICO.Infraestrutura.deps.json
+C:\Projetos\SIICO\SIICO.Infraestrutura\bin\Debug\net8.0\SIICO.Infraestrutura.dll
+C:\Projetos\SIICO\SIICO.Infraestrutura\bin\Debug\net8.0\SIICO.Infraestrutura.pdb
+C:\Projetos\SIICO\SIICO.Infraestrutura\bin\Debug\net8.0\SIICO.Dominio.dll
+C:\Projetos\SIICO\SIICO.Infraestrutura\bin\Debug\net8.0\SIICO.Dominio.pdb
+C:\Projetos\SIICO\SIICO.Infraestrutura\obj\Debug\net8.0\SIICO.Infraestrutura.csproj.AssemblyReference.cache
+C:\Projetos\SIICO\SIICO.Infraestrutura\obj\Debug\net8.0\SIICO.Infraestrutura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\SIICO\SIICO.Infraestrutura\obj\Debug\net8.0\SIICO.Infraestrutura.AssemblyInfoInputs.cache
+C:\Projetos\SIICO\SIICO.Infraestrutura\obj\Debug\net8.0\SIICO.Infraestrutura.AssemblyInfo.cs
+C:\Projetos\SIICO\SIICO.Infraestrutura\obj\Debug\net8.0\SIICO.Infraestrutura.csproj.CoreCompileInputs.cache
+C:\Projetos\SIICO\SIICO.Infraestrutura\obj\Debug\net8.0\SIICO.In.37ECCF40.Up2Date
+C:\Projetos\SIICO\SIICO.Infraestrutura\obj\Debug\net8.0\SIICO.Infraestrutura.dll
+C:\Projetos\SIICO\SIICO.Infraestrutura\obj\Debug\net8.0\refint\SIICO.Infraestrutura.dll
+C:\Projetos\SIICO\SIICO.Infraestrutura\obj\Debug\net8.0\SIICO.Infraestrutura.pdb
+C:\Projetos\SIICO\SIICO.Infraestrutura\obj\Debug\net8.0\ref\SIICO.Infraestrutura.dll
