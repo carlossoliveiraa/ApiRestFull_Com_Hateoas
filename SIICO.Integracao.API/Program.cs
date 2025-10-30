@@ -1,5 +1,6 @@
 using SIICO.Aplicacao.Interfaces;
 using SIICO.Aplicacao.Services;
+using SIICO.Aplicacao.Strategies;
 using SIICO.Dominio.Interfaces;
 using SIICO.Infraestrutura.Repositorio;
 
@@ -18,6 +19,19 @@ builder.Services.AddScoped<ICorrespondenteConvenioRepository, CorrespondenteConv
 // Dependency Injection - Application
 builder.Services.AddScoped<IHateoasService, HateoasService>();
 builder.Services.AddScoped<ICorrespondenteConvenioService, CorrespondenteConvenioService>();
+builder.Services.AddScoped<ICorrespondenteService, CorrespondenteService>();
+
+// Strategy Pattern - Registrar todas as estratégias de busca (ordem de prioridade)
+builder.Services.AddScoped<ICorrespondenteSearchStrategy, IdSearchStrategy>();
+builder.Services.AddScoped<ICorrespondenteSearchStrategy, CnpjSearchStrategy>();
+builder.Services.AddScoped<ICorrespondenteSearchStrategy, NomeSearchStrategy>();
+builder.Services.AddScoped<ICorrespondenteSearchStrategy, EmailSearchStrategy>();
+builder.Services.AddScoped<ICorrespondenteSearchStrategy, CnpjNomeSearchStrategy>();
+builder.Services.AddScoped<ICorrespondenteSearchStrategy, NomeTelefoneSearchStrategy>();
+builder.Services.AddScoped<ICorrespondenteSearchStrategy, NomeEmailSearchStrategy>();
+
+// Factory para selecionar estratégia
+builder.Services.AddScoped<CorrespondenteSearchStrategyFactory>();
 
 var app = builder.Build();
 

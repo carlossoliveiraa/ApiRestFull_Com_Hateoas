@@ -72,3 +72,4 @@ FROM [dbo].[CorrespondenteConvenio]
 GROUP BY TipoConvenio
 ORDER BY TipoConvenio;
 
+

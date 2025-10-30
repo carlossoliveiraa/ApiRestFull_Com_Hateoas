@@ -74,7 +74,8 @@
       "SIICO.Aplicacao/1.0.0": {
         "dependencies": {
           "Newtonsoft.Json": "13.0.4",
-          "SIICO.Dominio": "1.0.0"
+          "SIICO.Dominio": "1.0.0",
+          "SIICO.Infraestrutura": "1.0.0"
         },
         "runtime": {
           "SIICO.Aplicacao.dll": {

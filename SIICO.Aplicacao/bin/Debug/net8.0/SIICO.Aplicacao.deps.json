@@ -9,7 +9,8 @@
       "SIICO.Aplicacao/1.0.0": {
         "dependencies": {
           "Newtonsoft.Json": "13.0.4",
-          "SIICO.Dominio": "1.0.0"
+          "SIICO.Dominio": "1.0.0",
+          "SIICO.Infraestrutura": "1.0.0"
         },
         "runtime": {
           "SIICO.Aplicacao.dll": {}
@@ -26,6 +27,17 @@
       "SIICO.Dominio/1.0.0": {
         "runtime": {
           "SIICO.Dominio.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "SIICO.Infraestrutura/1.0.0": {
+        "dependencies": {
+          "SIICO.Dominio": "1.0.0"
+        },
+        "runtime": {
+          "SIICO.Infraestrutura.dll": {
             "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
@@ -47,6 +59,11 @@
       "hashPath": "newtonsoft.json.13.0.4.nupkg.sha512"
     },
     "SIICO.Dominio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SIICO.Infraestrutura/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

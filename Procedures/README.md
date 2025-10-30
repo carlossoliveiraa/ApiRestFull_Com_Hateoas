@@ -62,3 +62,4 @@ O script `02_InserirDadosExemplo.sql` insere 1000 registros de exemplo por padr�
 
 Para alterar a quantidade de registros, modifique a variável `@TotalRegistros` no início do script.
 
+

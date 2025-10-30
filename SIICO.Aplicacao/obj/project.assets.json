@@ -24,6 +24,19 @@
         "runtime": {
           "bin/placeholder/SIICO.Dominio.dll": {}
         }
+      },
+      "SIICO.Infraestrutura/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "SIICO.Dominio": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/SIICO.Infraestrutura.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SIICO.Infraestrutura.dll": {}
+        }
       }
     }
   },
@@ -62,12 +75,18 @@
       "type": "project",
       "path": "../SIICO.Dominio/SIICO.Dominio.csproj",
       "msbuildProject": "../SIICO.Dominio/SIICO.Dominio.csproj"
+    },
+    "SIICO.Infraestrutura/1.0.0": {
+      "type": "project",
+      "path": "../SIICO.Infraestrutura/SIICO.Infraestrutura.csproj",
+      "msbuildProject": "../SIICO.Infraestrutura/SIICO.Infraestrutura.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
       "Newtonsoft.Json >= 13.0.4",
-      "SIICO.Dominio >= 1.0.0"
+      "SIICO.Dominio >= 1.0.0",
+      "SIICO.Infraestrutura >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -104,6 +123,9 @@
           "projectReferences": {
             "C:\\Projetos\\SIICO\\ApiRestFull_Com_Hateos\\SIICO.Dominio\\SIICO.Dominio.csproj": {
               "projectPath": "C:\\Projetos\\SIICO\\ApiRestFull_Com_Hateos\\SIICO.Dominio\\SIICO.Dominio.csproj"
+            },
+            "C:\\Projetos\\SIICO\\ApiRestFull_Com_Hateos\\SIICO.Infraestrutura\\SIICO.Infraestrutura.csproj": {
+              "projectPath": "C:\\Projetos\\SIICO\\ApiRestFull_Com_Hateos\\SIICO.Infraestrutura\\SIICO.Infraestrutura.csproj"
             }
           }
         }

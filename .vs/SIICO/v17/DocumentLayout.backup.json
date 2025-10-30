@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Projetos\\SIICO\\ApiRestFull_Com_Hateos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{064053FA-4FCC-4E7B-B7D7-EA03046C1636}|SIICO.Infraestrutura\\SIICO.Infraestrutura.csproj|c:\\projetos\\siico\\apirestfull_com_hateos\\siico.infraestrutura\\repositorio\\sqldadosmocados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{064053FA-4FCC-4E7B-B7D7-EA03046C1636}|SIICO.Infraestrutura\\SIICO.Infraestrutura.csproj|solutionrelative:siico.infraestrutura\\repositorio\\sqldadosmocados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{064053FA-4FCC-4E7B-B7D7-EA03046C1636}|SIICO.Infraestrutura\\SIICO.Infraestrutura.csproj|c:\\projetos\\siico\\apirestfull_com_hateos\\siico.infraestrutura\\repositorio\\correspondenterepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{064053FA-4FCC-4E7B-B7D7-EA03046C1636}|SIICO.Infraestrutura\\SIICO.Infraestrutura.csproj|solutionrelative:siico.infraestrutura\\repositorio\\correspondenterepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7A0FB885-37B4-4E40-BFEB-AA26076B2073}|SIICO.Integracao.API\\SIICO.Integracao.API.csproj|c:\\projetos\\siico\\apirestfull_com_hateos\\siico.integracao.api\\controllers\\correspondentecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A0FB885-37B4-4E40-BFEB-AA26076B2073}|SIICO.Integracao.API\\SIICO.Integracao.API.csproj|solutionrelative:siico.integracao.api\\controllers\\correspondentecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -47,27 +43,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "SqlDadosMocados.cs",
-              "DocumentMoniker": "C:\\Projetos\\SIICO\\ApiRestFull_Com_Hateos\\SIICO.Infraestrutura\\Repositorio\\SqlDadosMocados.cs",
-              "RelativeDocumentMoniker": "SIICO.Infraestrutura\\Repositorio\\SqlDadosMocados.cs",
-              "ToolTip": "C:\\Projetos\\SIICO\\ApiRestFull_Com_Hateos\\SIICO.Infraestrutura\\Repositorio\\SqlDadosMocados.cs",
-              "RelativeToolTip": "SIICO.Infraestrutura\\Repositorio\\SqlDadosMocados.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Title": "CorrespondenteController.cs",
+              "DocumentMoniker": "C:\\Projetos\\SIICO\\ApiRestFull_Com_Hateos\\SIICO.Integracao.API\\Controllers\\CorrespondenteController.cs",
+              "RelativeDocumentMoniker": "SIICO.Integracao.API\\Controllers\\CorrespondenteController.cs",
+              "ToolTip": "C:\\Projetos\\SIICO\\ApiRestFull_Com_Hateos\\SIICO.Integracao.API\\Controllers\\CorrespondenteController.cs",
+              "RelativeToolTip": "SIICO.Integracao.API\\Controllers\\CorrespondenteController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-30T21:42:46.824Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CorrespondenteRepositorio.cs",
-              "DocumentMoniker": "C:\\Projetos\\SIICO\\ApiRestFull_Com_Hateos\\SIICO.Infraestrutura\\Repositorio\\CorrespondenteRepositorio.cs",
-              "RelativeDocumentMoniker": "SIICO.Infraestrutura\\Repositorio\\CorrespondenteRepositorio.cs",
-              "ToolTip": "C:\\Projetos\\SIICO\\ApiRestFull_Com_Hateos\\SIICO.Infraestrutura\\Repositorio\\CorrespondenteRepositorio.cs",
-              "RelativeToolTip": "SIICO.Infraestrutura\\Repositorio\\CorrespondenteRepositorio.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-30T21:41:11.314Z",
+              "WhenOpened": "2025-10-30T22:01:52.164Z",
               "EditorCaption": ""
             }
           ]

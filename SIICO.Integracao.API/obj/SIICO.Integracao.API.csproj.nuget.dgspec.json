@@ -34,6 +34,9 @@
             "projectReferences": {
               "C:\\Projetos\\SIICO\\ApiRestFull_Com_Hateos\\SIICO.Dominio\\SIICO.Dominio.csproj": {
                 "projectPath": "C:\\Projetos\\SIICO\\ApiRestFull_Com_Hateos\\SIICO.Dominio\\SIICO.Dominio.csproj"
+              },
+              "C:\\Projetos\\SIICO\\ApiRestFull_Com_Hateos\\SIICO.Infraestrutura\\SIICO.Infraestrutura.csproj": {
+                "projectPath": "C:\\Projetos\\SIICO\\ApiRestFull_Com_Hateos\\SIICO.Infraestrutura\\SIICO.Infraestrutura.csproj"
               }
             }
           }

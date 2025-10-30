@@ -12,6 +12,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\SIICO.Dominio\SIICO.Dominio.csproj" />
+    <ProjectReference Include="..\SIICO.Infraestrutura\SIICO.Infraestrutura.csproj" />
   </ItemGroup>
 
 </Project>
