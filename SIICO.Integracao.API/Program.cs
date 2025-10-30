@@ -13,7 +13,6 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 // Dependency Injection - Domain
-builder.Services.AddScoped<ICorrespondenteRepository, CorrespondenteRepository>();
 builder.Services.AddScoped<ICorrespondenteConvenioRepository, CorrespondenteConvenioRepository>();
 
 // Dependency Injection - Application

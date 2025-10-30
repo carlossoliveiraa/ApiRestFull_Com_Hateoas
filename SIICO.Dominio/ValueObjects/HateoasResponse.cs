@@ -28,13 +28,18 @@ namespace SIICO.Dominio.ValueObjects
 
         private static LinksResponse ConvertLinks(Dictionary<string, Link> links)
         {
+            if (links == null)
+            {
+                return new LinksResponse();
+            }
+
             return new LinksResponse
             {
-                PaginaAtual = links.ContainsKey("self") ? links["self"].Href : string.Empty,
-                PaginaAnterior = links.ContainsKey("prev") ? links["prev"].Href : null,
-                ProximaPagina = links.ContainsKey("next") ? links["next"].Href : null,
-                PrimeiraPagina = links.ContainsKey("first") ? links["first"].Href : string.Empty,
-                UltimaPagina = links.ContainsKey("last") ? links["last"].Href : string.Empty
+                PaginaAtual = links.ContainsKey("self") && links["self"] != null ? links["self"].Href : string.Empty,
+                PaginaAnterior = links.ContainsKey("prev") && links["prev"] != null ? links["prev"].Href : null,
+                ProximaPagina = links.ContainsKey("next") && links["next"] != null ? links["next"].Href : null,
+                PrimeiraPagina = links.ContainsKey("first") && links["first"] != null ? links["first"].Href : string.Empty,
+                UltimaPagina = links.ContainsKey("last") && links["last"] != null ? links["last"].Href : string.Empty
             };
         }
     }

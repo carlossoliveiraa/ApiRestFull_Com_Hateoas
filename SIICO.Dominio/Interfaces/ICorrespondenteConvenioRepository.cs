@@ -8,10 +8,5 @@ namespace SIICO.Dominio.Interfaces
             int tipoConvenio, 
             int pagina, 
             int limite);
-        
-        Task<CorrespondenteConvenio> ObterPorIdAsync(int id);
-        Task<CorrespondenteConvenio> AdicionarAsync(CorrespondenteConvenio correspondenteConvenio);
-        Task<CorrespondenteConvenio> AtualizarAsync(CorrespondenteConvenio correspondenteConvenio);
-        Task<bool> ExcluirAsync(int id);
     }
 }
